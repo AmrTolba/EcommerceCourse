@@ -1,0 +1,12 @@
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\bin\Debug\net6.0\Core.deps.json
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\bin\Debug\net6.0\Core.dll
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\bin\Debug\net6.0\Core.pdb
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.dll
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\refint\Core.dll
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\Core.pdb
+F:\Demo\ApiProjects\EcommerceCource\EcommerceCource\Core\obj\Debug\net6.0\ref\Core.dll
